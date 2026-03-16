@@ -5,9 +5,9 @@ Predmet: Razvoj telekomunikacijske programske podrške
 
 ## Student
 
-Ime i prezime:
+Ime i prezime: Tahira Zukić
 
-GitHub username:
+GitHub username: tahirazukic
 
 ---
 
