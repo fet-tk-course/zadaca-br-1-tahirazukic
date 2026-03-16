@@ -70,7 +70,7 @@ Ovaj repo sadrži moj GitHub zadaću za predmet Razvoj programske telekomunikaci
 
 Promijenite je u:
 
-Ovaj repo sadrži moj GitHub zadaću za predmet Razvoj programske telekomunikacijske podrške.
+Ovaj repo sadrži moj GitHub zadaću za predmet Razvoj telekomunikacijske programske podrške.
 
 Napravite commit.
 
