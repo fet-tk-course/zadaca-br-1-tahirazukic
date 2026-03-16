@@ -43,7 +43,7 @@ Na toj grani dodajte novu sekciju:
 
 Uvod
 
-Napišite 2–3 rečenice o sebi.
+Zovem se Tahira Zukić. Studentica sam na Fakultetu elektrotehnike Univerziteta u Tuzli. Ovo je moja prva zadaća.
 
 Napravite commit i push.
 
