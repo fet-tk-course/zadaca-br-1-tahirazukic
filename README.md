@@ -1,12 +1,13 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/eAZLlGv8)
 # Git zadaca – branch, pull request & merge conflict
 
 Predmet: Razvoj telekomunikacijske programske podrške
 
 ## Student
 
-Ime i prezime:
+Ime i prezime: Tahira Zukić
 
-GitHub username:
+GitHub username: tahirazukic
 
 ---
 
@@ -42,7 +43,7 @@ Na toj grani dodajte novu sekciju:
 
 Uvod
 
-Napišite 2–3 rečenice o sebi.
+Zovem se Tahira Zukić. Studentica sam na Fakultetu elektrotehnike Univerziteta u Tuzli. Ovo je moja prva zadaća.
 
 Napravite commit i push.
 
@@ -65,15 +66,15 @@ conflict-test
 
 U ovom fajlu pronađite sljedeću rečenicu i izmijenite je:
 
-Ovaj repo sadrži moj GitHub zadaću.
+Ovaj repo sadrži moj GitHub zadaću za predmet Razvoj telekomunikacijske programske podrške.
 
 Promijenite je u:
 
-Ovaj repo sadrži moj GitHub zadaću za predmet Razvoj programske telekomunikacijske podrške.
+Ovaj repo sadrži moj GitHub zadaću za predmet Razvoj telekomunikacijske programske podrške.
 
 Napravite commit.
 
----
+
 
 ### 5. Izmjena na main grani
 
