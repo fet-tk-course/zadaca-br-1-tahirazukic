@@ -74,7 +74,7 @@ Ovaj repo sadrži moj GitHub zadaću za predmet Razvoj telekomunikacijske progra
 
 Napravite commit.
 
----
+
 
 ### 5. Izmjena na main grani
 
